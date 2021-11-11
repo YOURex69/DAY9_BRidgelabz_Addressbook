@@ -1,0 +1,14 @@
+D:\bridgelabz\.NET problems\AddressBookSystem4\AddressBookSystem4\bin\Debug\netcoreapp3.1\AddressBookSystem4.exe
+D:\bridgelabz\.NET problems\AddressBookSystem4\AddressBookSystem4\bin\Debug\netcoreapp3.1\AddressBookSystem4.deps.json
+D:\bridgelabz\.NET problems\AddressBookSystem4\AddressBookSystem4\bin\Debug\netcoreapp3.1\AddressBookSystem4.runtimeconfig.json
+D:\bridgelabz\.NET problems\AddressBookSystem4\AddressBookSystem4\bin\Debug\netcoreapp3.1\AddressBookSystem4.runtimeconfig.dev.json
+D:\bridgelabz\.NET problems\AddressBookSystem4\AddressBookSystem4\bin\Debug\netcoreapp3.1\AddressBookSystem4.dll
+D:\bridgelabz\.NET problems\AddressBookSystem4\AddressBookSystem4\bin\Debug\netcoreapp3.1\AddressBookSystem4.pdb
+D:\bridgelabz\.NET problems\AddressBookSystem4\AddressBookSystem4\obj\Debug\netcoreapp3.1\AddressBookSystem4.csproj.AssemblyReference.cache
+D:\bridgelabz\.NET problems\AddressBookSystem4\AddressBookSystem4\obj\Debug\netcoreapp3.1\AddressBookSystem4.GeneratedMSBuildEditorConfig.editorconfig
+D:\bridgelabz\.NET problems\AddressBookSystem4\AddressBookSystem4\obj\Debug\netcoreapp3.1\AddressBookSystem4.AssemblyInfoInputs.cache
+D:\bridgelabz\.NET problems\AddressBookSystem4\AddressBookSystem4\obj\Debug\netcoreapp3.1\AddressBookSystem4.AssemblyInfo.cs
+D:\bridgelabz\.NET problems\AddressBookSystem4\AddressBookSystem4\obj\Debug\netcoreapp3.1\AddressBookSystem4.csproj.CoreCompileInputs.cache
+D:\bridgelabz\.NET problems\AddressBookSystem4\AddressBookSystem4\obj\Debug\netcoreapp3.1\AddressBookSystem4.dll
+D:\bridgelabz\.NET problems\AddressBookSystem4\AddressBookSystem4\obj\Debug\netcoreapp3.1\AddressBookSystem4.pdb
+D:\bridgelabz\.NET problems\AddressBookSystem4\AddressBookSystem4\obj\Debug\netcoreapp3.1\AddressBookSystem4.genruntimeconfig.cache
