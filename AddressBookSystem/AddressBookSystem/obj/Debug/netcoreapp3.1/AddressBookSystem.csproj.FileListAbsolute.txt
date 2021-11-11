@@ -1,0 +1,14 @@
+D:\bridgelabz\.NET problems\AddressBookSystem\AddressBookSystem\bin\Debug\netcoreapp3.1\AddressBookSystem.exe
+D:\bridgelabz\.NET problems\AddressBookSystem\AddressBookSystem\bin\Debug\netcoreapp3.1\AddressBookSystem.deps.json
+D:\bridgelabz\.NET problems\AddressBookSystem\AddressBookSystem\bin\Debug\netcoreapp3.1\AddressBookSystem.runtimeconfig.json
+D:\bridgelabz\.NET problems\AddressBookSystem\AddressBookSystem\bin\Debug\netcoreapp3.1\AddressBookSystem.runtimeconfig.dev.json
+D:\bridgelabz\.NET problems\AddressBookSystem\AddressBookSystem\bin\Debug\netcoreapp3.1\AddressBookSystem.dll
+D:\bridgelabz\.NET problems\AddressBookSystem\AddressBookSystem\bin\Debug\netcoreapp3.1\AddressBookSystem.pdb
+D:\bridgelabz\.NET problems\AddressBookSystem\AddressBookSystem\obj\Debug\netcoreapp3.1\AddressBookSystem.csproj.AssemblyReference.cache
+D:\bridgelabz\.NET problems\AddressBookSystem\AddressBookSystem\obj\Debug\netcoreapp3.1\AddressBookSystem.GeneratedMSBuildEditorConfig.editorconfig
+D:\bridgelabz\.NET problems\AddressBookSystem\AddressBookSystem\obj\Debug\netcoreapp3.1\AddressBookSystem.AssemblyInfoInputs.cache
+D:\bridgelabz\.NET problems\AddressBookSystem\AddressBookSystem\obj\Debug\netcoreapp3.1\AddressBookSystem.AssemblyInfo.cs
+D:\bridgelabz\.NET problems\AddressBookSystem\AddressBookSystem\obj\Debug\netcoreapp3.1\AddressBookSystem.csproj.CoreCompileInputs.cache
+D:\bridgelabz\.NET problems\AddressBookSystem\AddressBookSystem\obj\Debug\netcoreapp3.1\AddressBookSystem.dll
+D:\bridgelabz\.NET problems\AddressBookSystem\AddressBookSystem\obj\Debug\netcoreapp3.1\AddressBookSystem.pdb
+D:\bridgelabz\.NET problems\AddressBookSystem\AddressBookSystem\obj\Debug\netcoreapp3.1\AddressBookSystem.genruntimeconfig.cache
